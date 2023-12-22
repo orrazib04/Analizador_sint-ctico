@@ -249,13 +249,13 @@ def leer(codigo_fuente):
         entrada = file.read()
     analizador(entrada)
 
-codigo = 'ejemplo1.mark'
+codigo = 'ejemplo1.j'
 leer(codigo)
 print("\n\n")
-codigo1 = 'ejemplo2.mark'
+codigo1 = 'ejemplo2.j'
 leer(codigo1)
 print("\n\n")
-codigo2 = 'ejemplo3.mark'
+codigo2 = 'ejemplo3.j'
 leer(codigo2)
 
 
